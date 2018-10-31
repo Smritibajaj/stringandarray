@@ -1,0 +1,49 @@
+.mybackground{
+   background: url(image.png);
+   
+}
+.myclass{
+    display: inline-block;
+    width:50%;
+    height:50%;
+    border: 2px solid #002e00 ;
+    background: black;
+    margin-left: 25%;
+    margin-top:5%;
+    color:white;
+}
+p{
+    color:white;
+}
+button {
+    display: inline-block;
+    width:32%;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.margins{
+    margin: 10px;
+}
+.buttonClass{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.result{
+    width:50%;
+    display: inline-block;
+    margin-left:25%;
+    height:30%;
+    border: 2px solid #002e00 ;
+    background: black;
+    margin-left: 25%;
+    margin-top:10%;
+    color:white;
+}
